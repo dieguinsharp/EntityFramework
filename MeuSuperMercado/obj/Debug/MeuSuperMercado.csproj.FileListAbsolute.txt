@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\bin\Debug\MeuSuperMercado.exe.config
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\bin\Debug\MeuSuperMercado.exe
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\bin\Debug\MeuSuperMercado.pdb
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\bin\Debug\EntityFramework.dll
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\bin\Debug\EntityFramework.xml
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\obj\Debug\MeuSuperMercado.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\obj\Debug\MeuSuperMercado.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\obj\Debug\MeuSuperMercado.csproj.CopyComplete
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\obj\Debug\MeuSuperMercado.exe
+C:\Users\Diego\source\repos\MeuSuperMercado\MeuSuperMercado\obj\Debug\MeuSuperMercado.pdb
